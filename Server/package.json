@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "b4a": "^1.6.1",
+    "graceful-goodbye": "^1.2.1",
+    "hypercore": "^10.7.0",
+    "hyperswarm": "^4.3.7"
+  }
+}
