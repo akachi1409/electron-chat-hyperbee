@@ -12,3 +12,6 @@ It creates the same hypercore with the one from the server.
 And connects the same topic on the hyperswarm.
 Once it runs, it replicates the hypercore with the server and show the chat history
 Whenever user sends msg, it sends to hyperswarm to let server append it.
+
+# Workflow
+<img src = "./screenshot/Borad.jpg"/>
