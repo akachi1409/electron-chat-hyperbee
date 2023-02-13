@@ -14,4 +14,4 @@ Once it runs, it replicates the hypercore with the server and show the chat hist
 Whenever user sends msg, it sends to hyperswarm to let server append it.
 
 # Workflow
-<img src = "./screenshot/Borad.jpg"/>
+<img src = "./screenshot/Board.jpg"/>
